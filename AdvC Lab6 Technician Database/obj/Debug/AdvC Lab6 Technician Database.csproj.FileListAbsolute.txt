@@ -1,0 +1,10 @@
+c:\users\paquinwyatta\documents\visual studio 2012\Projects\AdvC Lab6 Technician Database\AdvC Lab6 Technician Database\bin\Debug\AdvC Lab6 Technician Database.exe.config
+C:\Users\PaquinWyattA\Source\Repos\AdvC-Lab06-Technician-Database\AdvC Lab6 Technician Database\bin\Debug\AdvC Lab6 Technician Database.exe.config
+C:\Users\PaquinWyattA\Source\Repos\AdvC-Lab06-Technician-Database\AdvC Lab6 Technician Database\bin\Debug\AdvC Lab6 Technician Database.exe
+C:\Users\PaquinWyattA\Source\Repos\AdvC-Lab06-Technician-Database\AdvC Lab6 Technician Database\bin\Debug\AdvC Lab6 Technician Database.pdb
+C:\Users\PaquinWyattA\Source\Repos\AdvC-Lab06-Technician-Database\AdvC Lab6 Technician Database\obj\Debug\AdvC Lab6 Technician Database.csprojResolveAssemblyReference.cache
+C:\Users\PaquinWyattA\Source\Repos\AdvC-Lab06-Technician-Database\AdvC Lab6 Technician Database\obj\Debug\AdvC_Lab6_Technician_Database.Form1.resources
+C:\Users\PaquinWyattA\Source\Repos\AdvC-Lab06-Technician-Database\AdvC Lab6 Technician Database\obj\Debug\AdvC_Lab6_Technician_Database.Properties.Resources.resources
+C:\Users\PaquinWyattA\Source\Repos\AdvC-Lab06-Technician-Database\AdvC Lab6 Technician Database\obj\Debug\AdvC Lab6 Technician Database.csproj.GenerateResource.Cache
+C:\Users\PaquinWyattA\Source\Repos\AdvC-Lab06-Technician-Database\AdvC Lab6 Technician Database\obj\Debug\AdvC Lab6 Technician Database.exe
+C:\Users\PaquinWyattA\Source\Repos\AdvC-Lab06-Technician-Database\AdvC Lab6 Technician Database\obj\Debug\AdvC Lab6 Technician Database.pdb
